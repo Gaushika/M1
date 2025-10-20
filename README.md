@@ -51,6 +51,7 @@ Write a C program to read A values and check whether A is positive number or not
 6.End the program.
 
 # PROGRAM:
+```
 #include <stdio.h>
 
 int main() {
@@ -66,6 +67,7 @@ int main() {
 
     return 0;
 }
+```
 # OUTPUT:
 
 <img width="595" height="329" alt="image" src="https://github.com/user-attachments/assets/f572d3f7-1ff2-475d-b1fb-077cc7c83323" />
@@ -100,6 +102,7 @@ Write a program to find minimum between two fraction numbers using conditional o
 7.	Print the minimum value.
 
 ## PROGRAM:
+```
 #include <stdio.h>
 
 int main() {
@@ -116,7 +119,7 @@ int main() {
 
     return 0;
 }
-
+```
 ## OUTPUT:
 
 <img width="563" height="313" alt="image" src="https://github.com/user-attachments/assets/41b5cc59-be00-4142-a127-3ed3fbb4f652" />
@@ -148,6 +151,7 @@ Write a C program to check whether the input value is equal to 1 using simple if
 6.	End the program.
 
 ## PROGRAM:
+```
 #include <stdio.h>
 
 int main() {
@@ -162,6 +166,7 @@ int main() {
     printf("The number is not equal to 1.\n");
     return 0;
 }
+```
 ## OUTPUT:
 
 <img width="486" height="299" alt="image" src="https://github.com/user-attachments/assets/2f079baf-9dce-4c60-90ce-3aa144a5b567" />
@@ -198,6 +203,7 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 9.	Else: Print “Division = Fail”
 10.	End
 ## PROGRAM:
+```
 #include <stdio.h>
 
 int main() {
@@ -230,7 +236,7 @@ int main() {
 
     return 0;
 }
-
+```
 ## OUTPUT:
 <img width="588" height="456" alt="image" src="https://github.com/user-attachments/assets/0be182be-32d9-477f-b509-fd8b9a4773a3" />
 
