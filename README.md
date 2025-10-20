@@ -10,6 +10,7 @@ Write a C program to read 3 characters one by one and print the characters in a 
 4.	End the program.
 
 ## PROGRAM:
+```
 #include <stdio.h>
 
 int main() {
@@ -18,6 +19,7 @@ int main() {
     printf("Characters in reverse order: %c  %c  %c\n", ch3, ch2, ch1);
  return 0;
 }
+```
 ## OUTPUT:
 <img width="708" height="331" alt="image" src="https://github.com/user-attachments/assets/f5e84804-5b39-42c9-84e0-fde1c3df6a0f" />
 
